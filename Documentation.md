@@ -17,8 +17,7 @@
 
 <h2>(3) Create a multibranch pipeline build in jenkins.</h2>
 
-- This is where the steps on how to build, test, clean, and deploy the application will be orchestrated.
-- 
+- This is where the steps on how to build, test, clean, and deploy the application will be orchestrated. The entire build process is defined here, it includes stages for building an application such as, testing cleaning and deploying it.
 
 <h2>(4) Addition.</h2>
 
